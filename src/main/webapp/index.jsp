@@ -4,7 +4,7 @@
     <title>Boxfuse Sample App: success!</title>
 </head>
 <body style="text-align: center">
-<h1>Welcome to DevOps Jenkins CICD</h1>
+<h1>Welcome to Multiple Serers deployment</h1>
 <img src="mg1.png" alt="Mega start chiru" width="500" height="600">
 
 <h2>You have successfully launched your Instance!megastar.com!</h2>
